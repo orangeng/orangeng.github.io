@@ -26,12 +26,16 @@ Most of these are textbooks, references, or just plain classical texts in the fi
 *E.g. `-o-` means I own a physical copy but have not read it at all*
 
 OSes
+- `--p` - Understanding the Linux Kernel
 - `---` - Lions' Commentary on UNIX 7th Edition
 - `-op` - Operating Systems: Three Easy Pieces
 - `---` - The UNIX-HATERS Handbook
-- `o--` - Advanced Programming in the UNIX environment
+- `-o-` - Advanced Programming in the UNIX environment
 - `---` - Solaris Internals: Core Kernel Architecture
 - `---` - The Design and Implementation of the FreeBSD Operating System
+
+Programming
+- `--p` - The C Programming Language
 
 Others
 - `--p` - Linkers and Loaders

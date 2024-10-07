@@ -3,7 +3,7 @@ layout: home
 title: about
 ---
 
-I'm a computer-science student at University of Illinois Urbana-Champaign (UIUC). I like operating systems, open-source software, world history, old music and well-written Wikipedia pages.
+I'm a computer-science student at University of Illinois Urbana-Champaign (UIUC). I like operating systems, open-source software, world history, old music and well-written Wikipedia pages. You might have seen the Dunning-Kruger effect graph where a person peaks in confidence with low knowledge and then falls into the valley of despair when they realize how much they don't know. I'm currently in the valley of despair except there never was a peak :D
 
 ### **Projects**
 
@@ -16,7 +16,7 @@ A multi-threaded file transfer CLI tool written in Rust
 [*cbindgen*](https://github.com/mozilla/cbindgen/pull/905)\
 cbindgen is a tool written by Mozilla engineers that generates C/C++/Python bindings for libraries written in Rust. I extended the project so that the parser can resolve fully-qualified [associated types](https://doc.rust-lang.org/book/ch19-03-advanced-traits.html#specifying-placeholder-types-in-trait-definitions-with-associated-types).
 
-minimal distributed system\
+[*minimal distributed system*](https://github.com/orangeng/distributed-mps) \
 A minimal distributed system for deploying map-reduce like batch jobs written in Rust. Has distributed grep, membership lists tracking, failure detection and a simple distributed file storage.
 
 ### **Linux**
