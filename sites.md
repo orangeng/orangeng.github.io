@@ -11,19 +11,19 @@ A collection of sites and blogs that are cool.
 
 ### Interesting computing
 
-Interesting sites / blogs
-- [LWN](https://lwn.net)
+Interesting index sites -- Collections of useful information
+- [LWN](https://lwn.net) - The Kernel index is a particularly good bank of articles for kernel internals.
+- [The Linux Kernel Documentation](https://docs.kernel.org/index.html)
+- [Syllabus for Classics of Computer Science at Harvard](https://canvas.harvard.edu/courses/34992/assignments/syllabus) 
+- [Teach Yourself Computer Science](https://teachyourselfcs.com) - How to learn CS properly
+
+Interesting blogs
 - [Eric S. Raymond's Home Page](http://www.catb.org/~esr/)
-- [Deep-ML](https://www.deep-ml.com) - A "leetcode" for ML
 - [sircmpwn's blog](https://drewdevault.com) - Creator of sway
 - [Joel on Software](https://www.joelonsoftware.com)
 
 
 Interesting articles
-
-- [Syllabus for Classics of Computer Science at Harvard](https://canvas.harvard.edu/courses/34992/assignments/syllabus) 
-- [Teach Yourself Computer Science](https://teachyourselfcs.com) - How to learn CS properly
-
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/) - A comprehensive tutorial for sockets programming
 - [Xplain](https://magcius.github.io/xplain/article) - An interactive article explaining X11
 - [Inside .git](https://jvns.ca/blog/2024/01/26/inside-git/)
@@ -34,3 +34,4 @@ Interesting articles
 - [Linux ate my ram!](https://www.linuxatemyram.com/)
 
 - [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/)
+- [Deep-ML](https://www.deep-ml.com) - A "leetcode" for ML

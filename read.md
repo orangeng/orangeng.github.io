@@ -33,6 +33,7 @@ OSes
 - `-o-` - Advanced Programming in the UNIX environment
 - `---` - Solaris Internals: Core Kernel Architecture
 - `---` - The Design and Implementation of the FreeBSD Operating System
+- `--p` - Hardware and Software Support for Virtualization
 
 Programming
 - `--p` - The C Programming Language
