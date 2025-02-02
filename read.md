@@ -9,13 +9,7 @@ With a life expectancy of 81 years + An average of 2 books per year, I can choos
 
 ### Fiction
 
-The TOREAD list, completed list is in Goodreads
-
-- The Lord of the Rings trilogy
-- To Kill a Mockingbird
-- The Great Gatsby
-- Fahrenheit 451
-- The Hitchhiker's Guide to the Galaxy
+Check out the list in [Goodreads](https://goodreads.com/orangerouter)
 
 
 ### Computing 
@@ -29,7 +23,7 @@ OSes
 - `--p` - Understanding the Linux Kernel
 - `---` - Lions' Commentary on UNIX 7th Edition
 - `-op` - Operating Systems: Three Easy Pieces
-- `---` - The UNIX-HATERS Handbook
+- `--p` - The UNIX-HATERS Handbook
 - `-o-` - Advanced Programming in the UNIX environment
 - `---` - Solaris Internals: Core Kernel Architecture
 - `---` - The Design and Implementation of the FreeBSD Operating System

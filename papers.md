@@ -5,7 +5,7 @@ title: papers
 
 The papers that I have {read, want to read}. The original idea was to write my thoughts for the papers I have read. However, \[ d(no of papers to read)/dt \>\> d(no of papers read)/dt \]. Hence, this list is more of an index of things that I hope to get to in this lifetime. 
 
-Not a list of the most cutting-edge technologies, since OSes are old and many papers here are classics in the topics they discuss.
+Not a list of the most cutting-edge technologies, since system topics are usually old and many papers here are classics in the topics they discuss.
 
 ### TOREAD
 
@@ -38,7 +38,12 @@ Programming Languages:
 
 ### READ
 
-Will update this list someday :/
+A list that is consistently out of date.
 
+Networking\
+_Note: Most of these are because they are required readings for a class_
+- The design philosophy of the DARPA internet protocols
+
+Linux
 - Linux Security Modules: General Security Support for the Linux Kernel
 
